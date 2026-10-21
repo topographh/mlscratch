@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+mlscratch/linalg.py
+mlscratch.egg-info/PKG-INFO
+mlscratch.egg-info/SOURCES.txt
+mlscratch.egg-info/dependency_links.txt
+mlscratch.egg-info/requires.txt
+mlscratch.egg-info/top_level.txt
+tests/test_linalg.py
